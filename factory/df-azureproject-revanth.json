@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-revanth",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "19ac403e-9d50-45cb-9be8-7ea1fe063a9e",
+		"tenantId": "7f31f7bc-0777-4134-bd7e-5cf1bcaa0a13"
+	}
+}
